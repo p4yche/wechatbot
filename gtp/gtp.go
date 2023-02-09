@@ -3,7 +3,7 @@ package gtp
 import (
 	"bytes"
 	"encoding/json"
-	"github.com/869413421/wechatbot/config"
+	"github.com/p4yche/wechatbot/config"
 	"io/ioutil"
 	"log"
 	"net/http"
